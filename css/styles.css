@@ -1,1 +1,35 @@
-/* YOUR STYLES */
+/* Typography */
+
+body {
+    background: #000;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* HEADER */
+.cd-header {
+    background: #a10022;
+}
+
+/* Content Containers */
+.cd-gallery li.mix {
+    background: white;
+    padding: 1em;
+}
+
+/* Grid View */
+.grid li.mix {
+    
+}
+
+/* List View */
+.list li.mix {
+    width: 100%;
+}
+
+.list li.mix p {
+    color: #fff;
+}
+
+
+
